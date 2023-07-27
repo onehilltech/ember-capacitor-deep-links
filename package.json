@@ -1,12 +1,15 @@
 {
   "name": "ember-capacitor-deep-links",
   "version": "0.1.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "A simple add-on for adding deep linking support.",
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "capacitor",
+    "deep links",
+    "universal links"
   ],
   "repository": "",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "author": "",
   "directories": {
     "doc": "doc",
